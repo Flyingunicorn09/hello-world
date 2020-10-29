@@ -1,2 +1,2 @@
 # hello-world
-just learning to code
+Hi All, I am Lena, happy to meet you all.
